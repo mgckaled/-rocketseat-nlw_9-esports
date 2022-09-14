@@ -1,6 +1,7 @@
 import React from 'react'
 import { StatusBar } from 'react-native'
 
+// UseFonts => função resposável pelo carregamento de fontes
 import {
 	useFonts,
 	Inter_400Regular,
