@@ -90,6 +90,4 @@ app.post('/games/:id/ads', async (request, response) => {
 	return response.status(201).json(ad)
 })
 
-app.listen(3000, () => {
-	console.log('Server started in PORT 3000')
-})
+app.listen(3333)
