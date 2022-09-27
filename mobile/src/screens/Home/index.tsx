@@ -5,9 +5,9 @@ import { useNavigation } from '@react-navigation/native'
 
 import logoImg from '../../assets/logo-nlw-esports.png'
 
-import { GameCard, GameCardProps } from '../../../components/GameCard'
-import { Background } from '../../../components/Background'
-import { Heading } from '../../../components/Heading'
+import { GameCard, GameCardProps } from '../../components/GameCard'
+import { Background } from '../../components/Background'
+import { Heading } from '../../components/Heading'
 
 import { styles } from './styles'
 

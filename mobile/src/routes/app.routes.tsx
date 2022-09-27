@@ -1,7 +1,7 @@
 // pacote de criação de estratégia de navegação
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 
-import { Home } from '../screens/Game/Home'
+import { Home } from '../screens/Home'
 import { Game } from '../screens/Game'
 
 // Navigator => extratégia de contexto de navegação.
